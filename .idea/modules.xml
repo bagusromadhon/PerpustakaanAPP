@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PerpustakaanOnline.iml" filepath="$PROJECT_DIR$/.idea/PerpustakaanOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PerpustakaanApp.iml" filepath="$PROJECT_DIR$/.idea/PerpustakaanApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerpustakaanOnline/PerpustakaanOnline.iml" filepath="$PROJECT_DIR$/PerpustakaanOnline/PerpustakaanOnline.iml" />
     </modules>
   </component>
 </project>
